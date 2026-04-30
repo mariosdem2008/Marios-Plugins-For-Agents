@@ -1,0 +1,4 @@
+interface:
+  display_name: "Generate Script Visuals"
+  short_description: "Realistic motion-ready visual asset packs"
+  default_prompt: "Use $generate-script-visuals to generate a realistic, motion-ready visual asset plan from this script, create the assets with image generation, and include a Remotion-ready asset manifest when the output is for a trailer, reel, short, or animated video."

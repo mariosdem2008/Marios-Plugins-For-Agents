@@ -1,0 +1,4 @@
+interface:
+  display_name: "CreatorCanon YouTube Videos"
+  short_description: "Orchestrate long-form CreatorCanon YouTube production"
+  default_prompt: "Use $generate-creatorcanon-youtube-videos to generate and render CreatorCanon YouTube videos into the YouTube Drafts folder."

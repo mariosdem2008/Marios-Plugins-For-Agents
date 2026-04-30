@@ -1,0 +1,4 @@
+interface:
+  display_name: "Generate CreatorCanon Scripts"
+  short_description: "CreatorCanon reel script engine"
+  default_prompt: "Generate a fresh CreatorCanon reel script using the brand's archive-productization psychology and scene-by-scene format."

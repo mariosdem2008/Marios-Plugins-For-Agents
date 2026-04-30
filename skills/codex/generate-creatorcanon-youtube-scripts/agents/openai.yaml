@@ -1,0 +1,4 @@
+interface:
+  display_name: "CreatorCanon YouTube Scripts"
+  short_description: "Long-form YouTube scripts for CreatorCanon"
+  default_prompt: "Use $generate-creatorcanon-youtube-scripts to draft a strategic CreatorCanon YouTube outline for creators with 50+ educational videos."

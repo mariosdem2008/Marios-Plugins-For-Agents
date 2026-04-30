@@ -1,0 +1,4 @@
+interface:
+  display_name: "Voiceover Synced Remotion Trailer"
+  short_description: "Voiceover-first animated trailer workflow"
+  default_prompt: "Use $voiceover-synced-remotion-trailer to build a premium 1080x1920 safe-zone-compliant animated reel from my script and visual references."

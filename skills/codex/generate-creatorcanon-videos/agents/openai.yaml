@@ -1,0 +1,4 @@
+interface:
+  display_name: "Generate CreatorCanon Videos"
+  short_description: "Parallel CreatorCanon video batch"
+  default_prompt: "Generate CreatorCanon videos end to end with one worker agent per video: scripts, draft folders, visuals, voiceover-synced Remotion renders, and verified MP4 outputs."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "CreatorCanon Hub Builder"
+  short_description: "Build source-backed hubs from audits and mockups"
+  default_prompt: "Use $creatorcanon-hub-builder to start or continue a premium CreatorCanon Knowledge Hub from this creator folder."

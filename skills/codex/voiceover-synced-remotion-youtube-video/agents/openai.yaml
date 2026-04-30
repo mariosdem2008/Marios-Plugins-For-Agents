@@ -1,0 +1,4 @@
+interface:
+  display_name: "Voiceover-Synced Remotion YouTube"
+  short_description: "Long-form YouTube videos synced to voiceover"
+  default_prompt: "Use $voiceover-synced-remotion-youtube-video to build a 6-9 minute voiceover-synced Remotion YouTube video from my script and visual references."

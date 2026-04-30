@@ -1,0 +1,4 @@
+interface:
+  display_name: "CreatorCanon YouTube Visuals"
+  short_description: "Realistic CreatorCanon YouTube visual systems"
+  default_prompt: "Use $generate-creatorcanon-youtube-visuals to create realistic YouTube-native thumbnails, channel mockups, section visuals, and motion-ready assets for a CreatorCanon YouTube video script, including a YouTube asset manifest when assets are generated for editing or Remotion."
